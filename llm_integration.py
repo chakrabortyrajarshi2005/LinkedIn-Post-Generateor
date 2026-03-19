@@ -1,5 +1,4 @@
 from dotenv import load_dotenv
-
 load_dotenv()
 
 import os
@@ -14,5 +13,5 @@ llm = ChatGroq(
 )
 
 if __name__ == "__main__":
-    response = llm.invoke("How to cook mutton kosha ?")
+    response = llm.invoke("How to cook mutton kosha?")
     print(response.content)
