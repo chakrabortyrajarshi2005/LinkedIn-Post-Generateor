@@ -1,0 +1,210 @@
+[
+    {
+        "text": "After almost 20 years in AI, I see one shift that every business professional needs to make.\n\nThe AI game has changed fundamentally in the past 90 days. Not incrementally. Not 'oh cool, it can write a better email now.' Fundamentally.\n\nWe crossed a threshold in late 2025 where AI stopped being a tool and really started being a capable teammate. The models got good enough at reasoning and taking action on the first go of a task that for the first time, you can point them at real things you need to get done and trust them to figure out the steps without constant handholding.\n\nWe are in the 'AI as autonomous worker' phase now.\n\nThree things that improved in the past 90 days:\n\n1\ufe0f\u20e3 AI became more proactive. Scheduling and triggers existed before (ChatGPT pulse, cron jobs), but they required some technical know-how. Now it\u2019s as simple as telling agents in plain English what to watch and when to act with.\n\n2\ufe0f\u20e3 Parallel execution. One AI can now easily run multiple tasks simultaneously. Not one prompt, one output - now it\u2019s one input and fifteen paths working at the same time.\n\n3\ufe0f\u20e3 Multi-agent systems. Multiple AIs working together, dividing work, checking each other, coordinating like a team. This existed before, but it was too expensive or too complex for folks outside a well-funded enterprise. Now it's not.\n\nIf your primary use of AI is still a glorified search engine or summarizing documents, I\u2019m here to help.\n\nJoin my free AI agent workshop on March 25 at 12pm ET. REGISTER HERE: https://lnkd.in/eMyV4h-p\n\nThere are 900+ million weekly users of ChatGPT. Only a few million are using agent platforms. And you\u2019re going to be one.",
+        "engagement": 0,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "AI Tools",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Our bottleneck for some of the biggest change ahead may be humans.\n\nIf you haven\u2019t heard or you didn\u2019t see my Instagram story (summary below), a techy from Australia named Paul Conyngham used ChatGPT and AlphaFold to create a personalized vaccine that shrunk his dog Rosie\u2019s tumor by ~75%.\n\nWhen I read the coverage, my shock was less that ChatGPT finding a possible treatment (though to be sure, I loved it) and more that UNSW scientists got on board and were somehow able to get the vaccine made and used in 2 months.\n\nThe companies who gain the most value with AI will also have the leaders who figure out how to speed up human and physical processes.\n\nThink: trials, approvals, testing, drug manufacturing, and dog belly rubs.\n\nThough I believe I\u2019m fastest in market on that last one.",
+        "engagement": 0,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "AI Tools",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Awesome non-coding Claude Code Loop ideas for business professionals.\n\nGrab any of these + immediately save time:\n\n- Check my email every 15min and ping me if something is related to Project Pluto and needs a decision made\n- Every 30min, prep me for my next meeting with attendee context, threads, mtg and crm notes, emails\n- Monitor a deal thread every 2h - summarize any new replies related to legal and suggest next moves\n- Research competitor announcements every 20min (better than an RSS feed bc you can specify the type of announcement and not keywords)\n- Check in on a brand post going viral, summarize the stats and comments\n- Watch across all Slack messages for team blockers and flag to me if I should jump in\n- Monitor that certain things are working (like your HR tool or something internal you own)\n- Watch 10 companies' job boards you want to apply to\n- Watch my sent emails and flag if someone on my VIP client list hasn't replied in a way that feels off\n- Literally just have it watch everything across all of your tools and proactively flag actions (ex: \"hey you should cancel this mtg\")\n\nRecruiters with 40 open roles, flag who's going cold. Teachers, flag students falling behind who haven't submitted homework yet. Event planners, monitor weather and vendors day of. Real estate agents, you can watch MLS for new niche listings (\"must have at least 2 bay windows and herringbone floors\"). Fundraiser, monitor your investor threads and see which ones need intervening.\n\nJust prompt Claude Code with '/loop <cadence> <task>' like the image example below or feed it this tweet for role-specific ideas",
+        "engagement": 0,
+        "line_count": 23,
+        "language": "English",
+        "tags": [
+            "Automation",
+            "AI Tools"
+        ]
+    },
+    {
+        "text": "Last week my team held a one-hour context engineering sprint.\n\nMassively valuable.\n\nWe blocked off everyone\u2019s calendar for one hour, opened up Claude code, connected our context vault prompts and interview style, shared best practices ahead of time, and dictated back-and-forth with Claude for an hour (while walking for some of us!) with Wispr Flow.\n\nOur file system is our agent brain. Taking an hour or two to massively improve that is well worth it.\n\nTry it with your team next week.",
+        "engagement": 0,
+        "line_count": 7,
+        "language": "English",
+        "tags": [
+            "Team Building",
+            "Context Engineering"
+        ]
+    },
+    {
+        "text": "If you're still copy-pasting context into AI manually, there's a faster way and it takes about 4 seconds.\n\nI set up custom commands so the stuff I do repeatedly takes seconds instead of minutes from compiling and typing out repetitive prompts. In this clip I walk through a few of them:\n\n\u2192 Screenshot a webpage and turn it into a boss-ready report with one command\n\u2192 Auto-redact sensitive info from a screenshotted resume (names, emails, phone numbers)\n\u2192 Build an interactive HTML decision matrix from a pricing page screenshot\n\nThe whole point is removing the friction between \"I need something from AI\" and actually getting it. This is one example of the kind of thing you can build once your AI environment is set up properly.\n\nOn March 25 I'm running a FREE live workshop where we get into every AI tool I use, every model, and why I use each one. Plus the four shifts that completely changed how I work with AI agents, each paired with a real use case and demo. Q&A after.\n\nRegister here: https://lnkd.in/eMyV4h-p",
+        "engagement": 0,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "Productivity"
+        ]
+    },
+    {
+        "text": "My AI Boardroom is now an AI Battlefield \u2694\ufe0f\n\nI had made an AI boardroom, with simulated advisors so that I can throw any question at them and watch them argue it out. 6 agents, each loaded with a 414-line business context document and a personality profile, arguing with each other until a moderator calls the debate 95% settled.\n\nBut the boardroom was too polite. The battlefield forces actual disagreement, and disagreement is where the useful thinking happens.\n\nSo what started as \"review this from Steve Jobs' POV\" in late 2022 is now a full war room I invoke with /boardroom. It then kicks off the agents, they argue, and I get back a folder with the decision as the title. The folder includes a markdown file with the core decision, an interactive HTML file, and a PDF I can send to the team.\n\nWay more fun.\n\nReminder: explore outputs beyond text files. Go for PDFs, spreadsheets, code, dashboards, interactive worlds, animations... not just because it tells the data story better, but because it's an absolute delight.\n\nFull prompt and setup breakdown on X: https://lnkd.in/e2A2p9kC",
+        "engagement": 0,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "Innovation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Every single Claude Code conversation turn should end with it offering to do even more for you.\n\nIt should be so proactive and helpful that you cry with joy at how productive it is making you.\n\nAdd this to your global CLAUDE.md file \u2b07\ufe0f\n\n---------------------------------------------------\n\n# Task Endings - \"What Else Can I Handle?\"\n\nAfter completing any big task, end with a \"Let me take more off your plate\" section with three categories:\n\n1. Next actions I can do right now \u2014 specific follow-ups I can knock out immediately\n2. Automations or systems I can set up \u2014 so you never have to do it manually again\n3. Things to delegate to your team \u2014 draft messages for <insert team members>\n\n3-5 bullet points max, no fluff, goal is you walk away feeling lighter.",
+        "engagement": 0,
+        "line_count": 17,
+        "language": "English",
+        "tags": [
+            "AI Tools",
+            "Productivity"
+        ]
+    },
+    {
+        "text": "The first time I watched Steve Jobs\u2019 1983 Aspen keynote, it really struck me.\n\nNot because of the technology predictions.\nBut because of the mindset behind them.\n\nJobs said computers would become extensions of human creativity and potential.\n\nIn 1983, that sounded bold.\nToday, with AI everywhere, it feels almost obvious.\n\nBut the line that stayed with me most was this:\n\nEverything around you was created by someone no smarter than you.\nThe world isn\u2019t fixed. It\u2019s built.\n\nThat idea becomes even more powerful in the AI era.\n\nBecause today we\u2019re not just using tools.\nWe\u2019re shaping entirely new possibilities for how humans and machines work together.\n\nSo let me ask you:\n\nAre you simply watching the AI revolution happen\u2026\nor are you helping build what comes next?\n\nhashtag#ArtificialIntelligence hashtag#Innovation hashtag#Leadership hashtag#Entrepreneurship hashtag#FutureOfWork hashtag#AI hashtag#SteveJobs",
+        "engagement": 169,
+        "line_count": 17,
+        "language": "English",
+        "tags": [
+            "Innovation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "The AI Micromanager Trap\n\nI see this pattern a lot when companies adopt AI.\n\nLeaders think they\u2019re driving the transformation.\nBut often, they\u2019re just slowing it down.\n\n\ud83d\udeb2 They believe they\u2019re steering the team toward progress.\n\u2699\ufe0f In reality, they\u2019re reviewing every prompt, editing every output, and creating bottlenecks.\n\nAI moves fast.\nMicromanagement doesn\u2019t.\n\nFrom what I\u2019ve observed, the most effective leaders don\u2019t control every step.\nThey set the direction \u2014 and let people and machines move.\n\nSo here\u2019s a question worth asking:\n\nAre you enabling AI\u2026 or unintentionally standing in its way?\n\nhashtag#ArtificialIntelligence hashtag#AITransformation hashtag#Leadership hashtag#FutureOfWork hashtag#Automation hashtag#Innovation",
+        "engagement": 514,
+        "line_count": 13,
+        "language": "English",
+        "tags": [
+            "AI Transformation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "This is what IT calls seamless integration.\n\nAnd what senior management proudly calls digital transformation.\n\nCurious:\n\n\ud835\uddd7\ud835\uddfc\ud835\uddf2\ud835\ude00 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\ude01\ud835\uddf2\ud835\uddf0\ud835\uddf5 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddf0\ud835\uddf8 \ud835\uddf9\ud835\uddfc\ud835\uddfc\ud835\uddf8 \ud835\uddee\ud835\uddfb\ud835\ude06 \ud835\uddf1\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01?\n\nhashtag#AI hashtag#DigitalTransformation hashtag#Automation hashtag#TechHumor hashtag#FutureOfWork",
+        "engagement": 1333,
+        "line_count": 5,
+        "language": "English",
+        "tags": [
+            "Digital Transformation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "This might be the most accurate illustration of \ud835\uddd4\ud835\udddc \ud835\uddf5\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude02\ud835\uddf0\ud835\uddf6\ud835\uddfb\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb I\u2019ve seen in a while.\n\nYou ask a simple question.\nThe model answers \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddf3\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf9\ud835\ude06.\nAnd then\u2026 reality strongly disagrees.\n\nWorking with AI every day, I see this pattern often.\n\nLarge language models don\u2019t actually know things.\nThey predict \ud835\ude04\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\ude00\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\ude00 \ud835\uddff\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01.\n\nMost of the time, that works surprisingly well.\n\nBut sometimes the answer is simply a very \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddf3\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf4\ud835\ude02\ud835\uddf2\ud835\ude00\ud835\ude00.\n\nWhich is why asking AI whether a mushroom is edible might not be the safest life decision. \ud83c\udf44\n\nCurious:\n\n\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01\u2019\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddf3\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf9\ud835\ude06 \ud835\ude04\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddf4 \ud835\uddd4\ud835\udddc \ud835\uddee\ud835\uddfb\ud835\ude00\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\ude06\ud835\uddfc\ud835\ude02\u2019\ud835\ude03\ud835\uddf2 \ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddff \ud835\ude00\ud835\uddf2\ud835\uddf2\ud835\uddfb?\n\nhashtag#AI hashtag#AIHallucinations hashtag#ArtificialIntelligence hashtag#GenerativeAI hashtag#TechHumor",
+        "engagement": 3294,
+        "line_count": 15,
+        "language": "English",
+        "tags": [
+            "AI Hallucinations",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Agentic AI is scaling fast. Data is exploding even faster.\n\nAnd that creates a silent failure: AI agents can\u2019t find the right information, at the right time, to make the right decision\u2014and act on it.\n\nThis is a question I\u2019ve been thinking about for a while.\n\nToday at hashtag#NVIDIAGTC, in a discussion with Brian Bergholm at the Elastic booth, one idea clicked:\n>> It\u2019s not a model problem. It\u2019s a retrieval problem.\n\nThe knowledge exists everywhere: documents, logs, dashboards, emails, and databases. But it is scattered, unstructured, and too slow to access when it matters.\n\nAnd for agents, that\u2019s fatal. Because agents don\u2019t just generate answers, they decide and act.\n\nIf you break the retrieval, the whole system breaks. That\u2019s why search is becoming the backbone of the agentic enterprise.\n\n\ud83d\udc49 What impressed me is how Elastic, with NVIDIA, is tackling this at scale by combining vector search with GPU acceleration. The impact is not theoretical:\n- 12\u00d7 faster indexing\n- 7\u00d7 faster merging\n- 5\u00d7 better cost-adjusted throughput\n\nIn other words: Better search = smarter agents.\n\n\ud83d\udc49 If you\u2019re at GTC (https://nvda.ws/4c9q4UZ), stop by the Elastic booth (#3200) to see how to turn your data into real business value.\n\nhttps://lnkd.in/eFPvACDi\n\nThe move to production AI isn't just about the model\u2014it\u2019s about the data architecture behind it.\n\nhashtag#ElasticAmbassador hashtag#AI hashtag#AgenticAI hashtag#EnterpriseAI hashtag#DataStrategy hashtag#ad",
+        "engagement": 1744,
+        "line_count": 23,
+        "language": "English",
+        "tags": [
+            "Ambassadors",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud835\uddd5\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddef\ud835\uddf2\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf6\ud835\uddfb\ud835\ude03\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddf1 \ud835\uddf6\ud835\uddfb \ud835\uddda\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddd4\ud835\udddc to summarize documents and produce concise reports.\n\nMeanwhile, somewhere in an office:\n\n\u2192 Ctrl + A\n\u2192 reduce the font size\n\u2192 delete the margins\n\nSuddenly the 30-page report becomes 22 pages.\n\n\ud835\udddc\ud835\uddfb\ud835\uddfb\ud835\uddfc\ud835\ude03\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb. \ud83d\ude04\n\nCurious:\n\n\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01\u2019\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \u201c\ud835\uddf6\ud835\uddfb\ud835\uddfb\ud835\uddfc\ud835\ude03\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2\u201d \ud835\uddfc\ud835\uddf3\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddf2 \ud835\ude01\ud835\uddff\ud835\uddf6\ud835\uddf0\ud835\uddf8 \ud835\ude06\ud835\uddfc\ud835\ude02\u2019\ud835\ude03\ud835\uddf2 \ud835\ude00\ud835\uddf2\ud835\uddf2\ud835\uddfb?\n\nhashtag#AI hashtag#GenerativeAI hashtag#FutureOfWork hashtag#TechHumo",
+        "engagement": 770,
+        "line_count": 11,
+        "language": "English",
+        "tags": [
+            "Generative AI",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud835\udddc\ud835\uddf3 \ud835\ude06\ud835\uddfc\ud835\ude02\u2019\ud835\uddff\ud835\uddf2 \ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf9\ud835\uddf9 \ud835\uddf3\ud835\uddf2\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddff\ud835\uddee\ud835\ude04 \ud835\udddd\ud835\udde6\ud835\udde2\ud835\udde1 \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddfc \ud835\udddf\ud835\udddf\ud835\udde0\ud835\ude00, \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddfa\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01 \ud835\uddef\ud835\uddf2 \ud835\ude04\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddfc\ud835\uddf8\ud835\uddf2\ud835\uddfb\ud835\ude00, \ud835\uddf9\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\ude06, \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddfa\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\ude06.\n\nThis is something I see surprisingly often in AI systems.\n\nJSON works well for software systems.\n\nBut for LLMs, it carries a lot of unnecessary structure.\n\nRecently I came across \ud835\udde7\ud835\udde2\ud835\udde2\ud835\udde1 (Token-Oriented Object Notation), a format designed specifically for LLM workflows.\n\nAnd the difference is not subtle.\n\nSame dataset:\n\n\u2192 \ud835\udff0\ud835\udfed\ud835\udfee characters in JSON\n\u2192 \ud835\udfed\ud835\udff1\ud835\udff0 characters in TOON\n\nLess structure noise.\nMore useful information for the model.\n\n\ud835\udddb\ud835\uddf2\ud835\uddff\ud835\uddf2\u2019\ud835\ude00 \ud835\ude04\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\udde7\ud835\udde2\ud835\udde2\ud835\udde1 \ud835\uddef\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4\ud835\ude00 \ud835\ude01\ud835\uddfc \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2: \u2b07\ufe0f\n\n\u2192 Token efficiency: often 30\u201360% fewer tokens for uniform datasets.\n\u2192 LLM-friendly structure: predictable fields improve model parsing.\n\u2192 Minimal syntax: fewer brackets, quotes, and repeated keys.\n\u2192 Flexible workflow: convert between JSON and TOON when needed.\n\n\ud835\uddea\ud835\uddf5\ud835\uddf2\ud835\uddfb \ud835\ude00\ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude02\ud835\ude00\ud835\uddf2 \ud835\uddf6\ud835\ude01? \u2b07\ufe0f\n\n\u2192 Large structured datasets such as logs, catalogs, telemetry, user lists.\n\u2192 Systems where token cost and latency matter.\n\nFor deeply nested or irregular data, JSON still makes sense.\n\nBut if you are building AI agents, copilots, or automation systems, the format of your data suddenly matters much more than it used to.\n\nFor years we optimized models.\n\nNow we are starting to optimize how we talk to them.\n\n\ud835\uddd6\ud835\ude02\ud835\uddff\ud835\uddf6\ud835\uddfc\ud835\ude02\ud835\ude00:\n\n\ud835\uddd7\ud835\uddfc \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8 \ud835\udddf\ud835\udddf\ud835\udde0-\ud835\uddfb\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\ude00 \ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2 \ud835\udde7\ud835\udde2\ud835\udde2\ud835\udde1 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\uddef\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfb\ud835\uddf2\ud835\ude05\ud835\ude01 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddfb\ud835\uddf1\ud835\uddee\ud835\uddff\ud835\uddf1?\n\nhashtag#AI hashtag#LLM hashtag#AgenticAI hashtag#DataEngineering hashtag#ArtificialIntelligence",
+        "engagement": 1521,
+        "line_count": 34,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "AI Models"
+        ]
+    },
+    {
+        "text": "\ud835\udde7\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddff\ud835\uddfc\ud835\uddef\ud835\uddfc\ud835\ude01 \ud835\uddf1\ud835\uddfc\ud835\uddf2\ud835\ude00 \ud835\ude00\ud835\uddfc\ud835\uddfa\ud835\uddf2\ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\uddf1\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\ude00 \ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf9\ud835\uddf9 \ud835\ude00\ud835\ude01\ud835\uddff\ud835\ude02\ud835\uddf4\ud835\uddf4\ud835\uddf9\ud835\uddf2 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5.\n\nIt can \ud835\ude04\ud835\uddee\ud835\uddf9\ud835\uddf8, \ud835\uddf7\ud835\ude02\ud835\uddfa\ud835\uddfd, \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddf3\ud835\uddf9\ud835\ude06.\n\nResearchers at EPFL\u2019s Laboratory of Intelligent Systems built \ud835\udde5\ud835\uddd4\ud835\udde9\ud835\uddd8\ud835\udde1, a robot inspired by how birds move between land and air.\n\nMost drones need open space and stable launch points.\n\n\ud835\udde5\ud835\uddd4\ud835\udde9\ud835\uddd8\ud835\udde1 works differently.\n\n\u2192 It can \ud835\uddf7\ud835\udde8\ud835\udde0\ud835\udde3 \ud835\ude01\ud835\uddfc \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\uddf3\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01\n\u2192 It can \ud835\ude04\ud835\uddee\ud835\uddf9\ud835\uddf8 \ud835\uddfc\ud835\uddfb \ud835\uddff\ud835\uddfc\ud835\ude02\ud835\uddf4\ud835\uddf5 \ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb\n\u2192 It can \ud835\uddf9\ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude04\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\uddf1\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\ude00 \ud835\uddf0\ud835\uddee\ud835\uddfb\u2019\ud835\ude01\n\nWhat I find interesting here is the design philosophy.\n\nInstead of forcing robots to adapt to machines, engineers are studying how \ud835\uddfb\ud835\uddee\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddee\ud835\uddf9\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06 \ud835\ude00\ud835\uddfc\ud835\uddf9\ud835\ude03\ud835\uddf2\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddef\ud835\uddf9\ud835\uddf2\ud835\uddfa.\n\nThat approach could unlock new possibilities:\n\n\u2192 \ud835\ude00\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddf0\ud835\uddf5 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\ude02\ud835\uddf2 in difficult terrain\n\u2192 \ud835\uddf6\ud835\uddfb\ud835\ude00\ud835\uddfd\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb in tight or cluttered environments\n\u2192 \ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude06 where drones cannot easily land\n\nSmall shift in design.\nPotentially \ud835\uddef\ud835\uddf6\ud835\uddf4 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddee\ud835\uddf0\ud835\ude01 in real-world robotics.\n\n\ud835\uddd6\ud835\ude02\ud835\uddff\ud835\uddf6\ud835\uddfc\ud835\ude02\ud835\ude00:\n\n\ud835\uddea\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2 \ud835\uddf1\ud835\uddfc \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8 \ud835\uddf5\ud835\ude06\ud835\uddef\ud835\uddff\ud835\uddf6\ud835\uddf1 \ud835\uddff\ud835\uddfc\ud835\uddef\ud835\uddfc\ud835\ude01\ud835\ude00 \ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\uddef\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\ude02\ud835\ude00\ud835\uddf2\ud835\uddf3\ud835\ude02\ud835\uddf9?\n\nhashtag#Robotics hashtag#AI hashtag#Innovation hashtag#FutureOfRobotics hashtag#Technology",
+        "engagement": 1965,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "Robotics",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud835\udddc\ud835\uddfa\ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddee\ud835\uddff\ud835\uddf6\ud835\ude00\ud835\uddfc\ud835\uddfb. \u26a1\n\nSam Altman recently responded to criticism about \ud835\uddd4\ud835\udddc \ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddf4\ud835\ude06 \ud835\ude02\ud835\ude00\ud835\uddf2 with an argument that made many people pause.\n\nPeople often talk about how much electricity it takes to \ud835\uddf0\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\ude01\ud835\uddf2 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb \ud835\uddee\ud835\uddfb \ud835\uddd4\ud835\udddc \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9.\n\nBut we rarely compare it with what it takes to \u201ctrain\u201d a human.\n\nThink about it:\n\n\u2192 roughly \ud835\udfee\ud835\udfec \ud835\ude06\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\ude00 \ud835\uddfc\ud835\uddf3 \ud835\uddf9\ud835\uddf6\ud835\uddf3\ud835\uddf2\n\u2192 food, education systems, and infrastructure\n\u2192 centuries of accumulated human knowledge\n\nHis point is simple.\n\nThe fair comparison is not \ud835\uddd4\ud835\udddc \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 vs a human answering one question.\n\nIt is the energy required for a \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9 to answer a question compared with the energy used by a \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf1 \ud835\uddf5\ud835\ude02\ud835\uddfa\ud835\uddee\ud835\uddfb \ud835\uddef\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb.\n\nOnce the model is trained, he believes AI may already be approaching similar or even better \ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddf4\ud835\ude06 \ud835\uddf2\ud835\uddf3\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\ude06 \ud835\uddfd\ud835\uddf2\ud835\uddff \ud835\uddfe\ud835\ude02\ud835\uddf2\ud835\uddff\ud835\ude06.\n\nWorking in AI, I find this framing interesting.\n\nMaybe the real debate is not simply how much energy AI uses.\n\nMaybe it is \ud835\uddf5\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddf2 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddf2\ud835\uddf3\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\ude06.\n\n\ud835\uddd7\ud835\uddfc \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8 \ud835\uddd4\ud835\udddc\u2019\ud835\ude00 \ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddf4\ud835\ude06 \ud835\ude02\ud835\ude00\ud835\uddf2 \ud835\uddf6\ud835\ude00 \ud835\uddfc\ud835\uddf3\ud835\ude01\ud835\uddf2\ud835\uddfb \ud835\uddfa\ud835\uddf6\ud835\ude00\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00\ud835\ude01\ud835\uddfc\ud835\uddfc\ud835\uddf1?\n\nhashtag#AI hashtag#ArtificialIntelligence hashtag#Energy hashtag#FutureOfAI hashtag#Technology",
+        "engagement": 904,
+        "line_count": 26,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud835\uddd4 \ud835\uddf0\ud835\uddee\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddfa\ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\ude00\u2026 \ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2 \ud835\uddee \ud835\uddf0\ud835\uddff\ud835\uddee\ud835\uddef. \ud83e\udd80\ud83d\ude97\n\nI recently came across Hyundai\u2019s \ud835\uddf2-\ud835\uddd6\ud835\uddfc\ud835\uddff\ud835\uddfb\ud835\uddf2\ud835\uddff \ud835\udde6\ud835\ude06\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfa, and it immediately made me think: why didn\u2019t we build cars like this earlier?\n\nEach wheel can rotate independently.\n\nWhich means the car can literally \ud835\uddfa\ud835\uddfc\ud835\ude03\ud835\uddf2 \ud835\ude00\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\ude04\ud835\uddee\ud835\ude06\ud835\ude00.\n\nNo awkward turning.\nNo multi-point parking.\nJust slide into the spot.\n\nThe technology debuted on the \ud835\udddc\ud835\udde2\ud835\udde1\ud835\udddc\ud835\udde4 \ud835\udff1-based \ud835\udde0\ud835\uddfc\ud835\uddef\ud835\uddf6\ud835\uddfc\ud835\uddfb concept and could change how vehicles move in crowded cities.\n\nImagine:\n\n\u2192 \ud835\uddfd\ud835\uddee\ud835\uddff\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddf2\ud835\uddf9 \ud835\uddfd\ud835\uddee\ud835\uddff\ud835\uddf8\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\ude00\ud835\ude01\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\ude00\n\u2192 gliding out of tight spaces\n\u2192 maneuvering where traditional cars struggle\n\nSometimes innovation is not about making cars faster.\n\nIt is about making everyday driving \ud835\uddfa\ud835\ude02\ud835\uddf0\ud835\uddf5 \ud835\ude00\ud835\uddfa\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddf2\ud835\uddff.\n\n\ud835\uddea\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddff\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\uddee \ud835\uddf0\ud835\uddee\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf0\ud835\uddee\ud835\uddfb \ud835\uddfa\ud835\uddfc\ud835\ude03\ud835\uddf2 \ud835\ude00\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\ude04\ud835\uddee\ud835\ude06\ud835\ude00 \ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\ude00?\n\nhashtag#Innovation hashtag#Mobility hashtag#EV hashtag#FutureOfTransport hashtag#Technology",
+        "engagement": 1242,
+        "line_count": 17,
+        "language": "English",
+        "tags": [
+            "Mobility",
+            "Innovation"
+        ]
+    },
+    {
+        "text": "\ud835\uddd9\ud835\uddf6\ud835\uddff\ud835\uddf2\ud835\uddf3\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf6\ud835\ude00 \ud835\uddf4\ud835\uddfc\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddf6\ud835\uddff\ud835\uddef\ud835\uddfc\ud835\uddff\ud835\uddfb\ud835\uddf2. \ud83d\ude81\ud83d\udd25\n\nI\u2019ve been following how robotics is entering emergency response, and drones are starting to change the way wildfires are fought.\n\nInstead of sending crews directly into dangerous areas, drones can now:\n\n\u2192 reach hotspots much faster\n\u2192 drop water or fire retardant precisely where needed\n\u2192 use AI-powered sensors to map fires in real time\n\nThe impact is significant.\n\nLess risk for firefighters.\nFaster situational awareness.\nMore precise intervention.\n\nIt is a good reminder that AI and robotics are not only about productivity or automation.\n\nSometimes the most meaningful applications are about protecting human lives.\n\nCurious:\n\n\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddfc\ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf2\ud835\uddf0\ud835\uddf5\ud835\uddfb\ud835\uddfc\ud835\uddf9\ud835\uddfc\ud835\uddf4\ud835\uddf6\ud835\uddf2\ud835\ude00 \ud835\uddf1\ud835\uddfc \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddfb\ud835\ude00\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa \ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddff\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\ude06 \ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddfd\ud835\uddfc\ud835\uddfb\ud835\ude00\ud835\uddf2 \ud835\uddf6\ud835\uddfb \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfb\ud835\uddf2\ud835\ude05\ud835\ude01 \ud835\uddf1\ud835\uddf2\ud835\uddf0\ud835\uddee\ud835\uddf1\ud835\uddf2?\n\nhashtag#AI hashtag#Robotics hashtag#Drones hashtag#Innovation hashtag#FutureOfWork",
+        "engagement": 1900,
+        "line_count": 17,
+        "language": "English",
+        "tags": [
+            "Robotics",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud835\udddc\ud835\uddfa\ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\ude03\ud835\uddf2. \ud835\uddea\ud835\uddf6\ud835\uddff\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf1\ud835\uddfc\ud835\uddfb\u2019\ud835\ude01 \ud835\uddef\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf8. \ud83d\udc4f\n\nResearchers in China have developed a Metal-Polymer Conductor (MPC) by combining elastic polymers with liquid metals like gallium and indium.\n\nThe result is quite remarkable.\n\nA circuit that can:\n\n\u2192 stretch\n\u2192 twist\n\u2192 fold\n\u2192 bend repeatedly\n\n\u2026and still conduct electricity.\n\nTraditional wires fail under stress.\nThis material behaves more like living tissue.\n\nWhich opens interesting possibilities.\n\n\u2192 wearable electronics\n\u2192 soft robotics\n\u2192 medical sensors\n\u2192 even artificial skin\n\nWorking in automation and AI, I find breakthroughs like this fascinating.\n\nBecause the future of intelligent machines will not just depend on better software.\n\nIt will also depend on new kinds of hardware that can move, flex, and interact safely with the human world.\n\n\ud835\uddea\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2 \ud835\uddf1\ud835\uddfc \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8 \ud835\uddf3\ud835\uddf9\ud835\uddf2\ud835\ude05\ud835\uddf6\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\uddf0\ud835\ude00 \ud835\ude04\ud835\uddf6\ud835\uddf9\ud835\uddf9 \ud835\uddf5\ud835\uddee\ud835\ude03\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddef\ud835\uddf6\ud835\uddf4\ud835\uddf4\ud835\uddf2\ud835\ude00\ud835\ude01 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddee\ud835\uddf0\ud835\ude01?\n\nhashtag#AI hashtag#Robotics hashtag#Innovation hashtag#FutureTech hashtag#Technology",
+        "engagement": 1000,
+        "line_count": 24,
+        "language": "English",
+        "tags": [
+            "Robotics",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "This Week\u2019s Top Breakthroughs You Can\u2019t Miss:\n1\ufe0f\u20e3 Perplexity turns Mac mini into a 24/7 AI agent\n2\ufe0f\u20e3 Musk revives Macrohard as a joint xAI-Tesla project\n\u2b50If you want signal instead of noise in AI, join me for these virtual sessions.\n3\ufe0f\u20e3 LeCun's anti-LLM startup opens with $1B\n4\ufe0f\u20e3 Microsoft\u2019s Claude-powered Copilot Cowork\n5\ufe0f\u20e3 a16z releases 2026 consumer AI Top 100\n\nWhich of these AI developments inspires\u2014or worries\u2014you the most? Let\u2019s discuss \ud83d\udc47\n\n\ud83d\udca5\ud83d\udce9 Get this newsletter straight to your inbox\u2014it\u2019s more convenient! Click here to subscribe:\nhttps://lnkd.in/etD5RPws\n\nhashtag#intelligentautomation hashtag#AI hashtag#ArtificialIntelligence hashtag#FutureOfWork hashtag#AInews hashtag#Automation hashtag#Productivity hashtag#VoiceAI hashtag#Superintelligence hashtag#Newsletter",
+        "engagement": 946,
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Intelligent Automation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud83d\ude80 Proud to share the latest issue of AGENTIC INTELLIGENCE - The world's first newsletter dedicated to AI Agents (and made by AI Agents!)\n\nReceive this newsletter by email:https://lnkd.in/eqkb27tn\n\nThis Week's Agentic Breakthroughs:\n1\ufe0f\u20e3 Perplexity turns Mac mini into a 24/7 AI agent\n2\ufe0f\u20e3 Microsoft\u2019s Claude-powered Copilot Cowork\n\u2b50 If you want signal instead of noise in AI, join me for these virtual sessions\n3\ufe0f\u20e3 NVIDIA Is Building an Open-Source Enterprise AI Agent Platform \u2014 Ahead of GTC 2026\n4\ufe0f\u20e3 Alibaba's AI Agent Attempts Unauthorized Cryptocurrency Mining\n5\ufe0f\u20e3 Lee Sedol's AI Agent Outplays AlphaGo in Go\n\nWhich of these agent breakthroughs excites or concerns you the most? Share your thoughts below \ud83d\udc47\n\n310,000+ pioneers have already subscribed to this newsletter. Why? Because very soon, we won't say, \"There's an app for that.\" We'll say, \"There's an agent for that.\"\n\nhashtag#agenticAI hashtag#aiagents hashtag#ai hashtag#artificialintelligence",
+        "engagement": 806,
+        "line_count": 13,
+        "language": "English",
+        "tags": [
+            "AI Agents"
+        ]
+    }
+]
