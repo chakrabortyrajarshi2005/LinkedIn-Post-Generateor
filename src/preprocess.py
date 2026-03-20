@@ -62,7 +62,7 @@ def get_unified_tags(post_with_metadata):
     return response
 
 
-def processed_posts(raw_post_path, processed_post_path="data/processed-post.json"):
+def processed_posts(raw_post_path, processed_post_path="../data/processed-post.json"):
     good_post = []
     with open(raw_post_path, encoding="utf-8") as file:
         posts = json.load(file)
@@ -87,4 +87,4 @@ def processed_posts(raw_post_path, processed_post_path="data/processed-post.json
 
 
 if __name__ == "__main__":
-    processed_posts("data/raw-post.json", "data/processed-post.json")
+    processed_posts("../data/raw-post.json", "../data/processed-post.json")

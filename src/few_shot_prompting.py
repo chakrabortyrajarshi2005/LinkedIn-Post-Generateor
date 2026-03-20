@@ -3,7 +3,7 @@ import pandas as pd
 
 
 class FewShotPrompting:
-    def __init__(self, file_path="data/processed-post.json"):
+    def __init__(self, file_path="../data/processed-post.json"):
         self.df = None
         self.unique_tags = None
         self.load_posts(file_path)
