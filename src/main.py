@@ -106,7 +106,12 @@ def main():
             )
 
         with col_b:
-            st.markdown(get_download_link(post), unsafe_allow_html=True)
+            st.download_button(
+            label="Download Post",
+            data=post.content,  
+            file_name="post_content.txt",
+            mime="text/plain" )
+    )
 
 
 if __name__ == "__main__":
